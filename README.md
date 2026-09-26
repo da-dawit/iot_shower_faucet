@@ -25,6 +25,7 @@ Designed by Dawit Chun, Dahee Chun, and Woohyeon Hwang.
 | File | Description |
 |---|---|
 | `electric_faucet_assembly_01_02.SLDASM` | Full assembly (open this one) |
+| `electric_faucet_assembly_drawing.SLDDRW` | 2D engineering drawing of the assembly |
 | `pipe_LH_01_02.SLDPRT`, `pipe_RH_01_02.SLDPRT` | Housing and water channel halves |
 | `propeller_1st/2nd/3rd_01_02.SLDPRT` | Turbine propeller stages |
 | `axle_01_02.SLDPRT`, `axle_3m_01_02.SLDPRT` | Propeller shafts |
